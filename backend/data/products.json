@@ -1,0 +1,177 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": "24,000",
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/Oppo img-1.jpg"
+            },
+            {
+                "image": "/images/products/oppo img-2.jpg"
+            },
+            {
+                "image": "/images/products/oppo img-3.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Noise ColorFit Ultra 3 Bluetooth Calling Smart Watch with Biggest 1.96",
+        "price": "1,500",
+        "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/watch-1.jpg"
+            },
+            {
+                "image": "/images/products/watch-2.jpg"
+            },
+            {
+                "image": "/images/products/watch-3.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Dell Intel Laptop",
+        "price": "44,000",
+        "description": "DELL Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.65 Kg, With MS Office)",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/del-1.jpg"
+            },
+            {
+                "image": "/images/products/del-2.jpg"
+            }, {
+                "image": "/images/products/del-3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Apple MacBook Air Laptop",
+        "price": "25,000",
+        "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/imac-1.jpg"
+          },
+          {
+            "image": "/images/products/imac-2.jpg"
+          },
+          {
+            "image": "/images/products/imac-3.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price": "76,700",
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/lenova-1.jpg"
+          },
+          {
+            "image": "/images/products/lenova-2.jpg"
+          },
+          {
+            "image": "/images/products/lenova-3.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus Bullets Z2 Bluetooth Wireless ",
+        "price": "1,600",
+        "description": "OnePlus Bullets Z2 Bluetooth Wireless in Ear Earphones with Mic, Bombastic Bass, 10 Mins Charge - 20 Hrs Music, 30 Hrs Battery Life (Acoustic Red)",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/blo-1.jpg"
+            },
+            {
+                "image": "/images/products/blo-2.jpg"
+            },
+            {
+                "image": "/images/products/blo-3.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Maxico Running Shoes",
+        "price": "1,200",
+        "description": "PC- AIR Arcade Sports Shoes for Men | Running, Walking, Gym Shoes | Lightweight & Comfortable | Sneaker Shoes for Men | Ideal for Gents & Boys",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/shoe-1.jpg"
+            },
+            {
+                "image": "/images/products/shoe-2.jpg"
+            },
+            {
+                "image": "/images/products/shoe-3.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "FoodBall",
+        "price": "1,200",
+        "description": "Prokick Precision Machine Stitched 32 Panel Football, Size 4",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/food-1.jpg"
+            },
+            {
+                "image": "/images/products/food-3.jpg"
+            },
+            {
+                "image": "/images/products/food-2.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
